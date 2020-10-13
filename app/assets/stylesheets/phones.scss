@@ -1,0 +1,20 @@
+// Place all the styles related to the Phones controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.chat{
+     position: absolute;
+     bottom: 0;
+     right: 0;
+     width: 300px;
+     height: 150px;
+}
+
+.button{
+  background-color: #0000FF;
+  color: white;
+  padding: 2px 2px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+}
